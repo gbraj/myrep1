@@ -1,2 +1,3 @@
 # myrep1
 Test Rep
+This is my first trial with github....
